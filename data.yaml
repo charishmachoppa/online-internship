@@ -1,25 +1,11 @@
 path: /home/charishma/yolo_dataset
 
-train: images/train
-val: images/val
-
-names:
-  0: drone<<<<<<< HEAD
-path: /home/charishma/yolo_dataset
-
-train: images/train
-val: images/val
-
-names:
-  0: drone
-=======
-train: train/images
-val: valid/images
+train: dataset/train/images
+val: dataset/val/images
 
 nc: 3
 
 names:
-  0: person
-  1: car
-  2: bicycle
->>>>>>> 9e2d9007e9ee983591cc8893b453b4988e06f5b6
+  - person
+  - car
+  - bicycle
