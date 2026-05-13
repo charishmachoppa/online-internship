@@ -1,0 +1,9 @@
+train: train/images
+val: valid/images
+
+nc: 3
+
+names:
+  0: person
+  1: car
+  2: bicycle
