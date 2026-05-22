@@ -1,0 +1,5 @@
+runs/
+dataset/
+*.mp4
+*.avi
+*.pt

@@ -1,0 +1,1 @@
+/home/charishma/yolo_dataset/images/val/output_1780.jpg

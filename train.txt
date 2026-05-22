@@ -1,0 +1,3 @@
+/home/charishma/yolo_dataset/images/train/output_1780.jpg
+/home/charishma/yolo_dataset/images/train/output_1702.jpg
+/home/charishma/yolo_dataset/images/train/output_1520.jpg

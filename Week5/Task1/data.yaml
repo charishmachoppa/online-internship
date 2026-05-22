@@ -1,0 +1,11 @@
+path: /home/charishma/yolo_dataset
+
+train: dataset/train/images
+val: dataset/val/images
+
+nc: 3
+
+names:
+  - person
+  - car
+  - bicycle
