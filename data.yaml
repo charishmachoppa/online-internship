@@ -1,0 +1,10 @@
+path: /home/charishma/attention_project
+
+train: images/train
+val: images/train
+
+names:
+  0: attentive_student
+  1: mobile_usage
+  2: sleeping_student
+  3: distracted_student
